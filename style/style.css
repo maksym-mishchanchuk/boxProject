@@ -1,0 +1,25 @@
+.rightBlock {
+    width: 100px;
+    height: 100px;
+    border: 2px solid grey;
+    float: right;
+}
+.clear {
+    clear: both;
+}
+.leftBlock {
+    width: 100px;
+    height: 100px;
+    border: 2px solid orange;
+    float: left;
+}
+.clear1 {
+    clear: both;
+}
+.centerBlock {
+    width: 100px;
+    height: 100px;
+    border: 2px solid green;
+    margin: 0 auto;
+}
+
